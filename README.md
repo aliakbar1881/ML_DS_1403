@@ -10,7 +10,7 @@
 ### Mohamadamin Arab
     - Exercises:
         - chapter1
-            - 1.ipynb: This is the chapter 1 soultion Hands on ML book
+            - first.txt: This is the chapter 1 soultion Hands on ML book
     1. dataset1
 
 ### Ali Abasi
