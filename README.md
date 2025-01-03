@@ -24,6 +24,8 @@
             - 1_waterQuality.ipynb: this is the solution of question 8 in Hands on Ml book
             - 2_MNIST.ipynb: this is the solution of question 9 in Hands on Ml book
             - 3_Colifornia.ipynb: this is the solution of question 10 in Hands on Ml book
+        - chapter6:
+            - 1_moons.ipynb: this is the solution of question 7, 8 in Hands on ML book
     1. dataset:
         chapter2:
             - house_price.csv: this is my friend's dataset in university that worked on it and i worked too.
@@ -35,6 +37,7 @@
             - WinQT.csv: https://www.kaggle.com/datasets/tanvir47/winqty
         chapter5:
             - WaterQuelity.csv: https://www.kaggle.com/datasets/mssmartypants/water-quality
+     
 ### Ali Abasi
     - Exercises:
         - chapter1
